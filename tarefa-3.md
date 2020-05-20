@@ -174,6 +174,8 @@ REFERENCES Programa (Nome_Programa)
 ON DELETE CASCADE
 ON UPDATE CASCADE;
 ````
+Guardamos el archivo con el nombre **proxecto.sql** (por ejemplo) y al iniciar MySQL le indicamos que lo importe de esta manera:
+
 ![Imaxe 14](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/1_1.PNG)
 
 ![Imaxe 15](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/2_2.PNG)
