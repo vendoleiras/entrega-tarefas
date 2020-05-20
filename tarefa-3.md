@@ -178,6 +178,8 @@ Guardamos el archivo con el nombre **proxecto.sql** (por ejemplo) y al iniciar M
 
 ![Imaxe 14](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/1_1.PNG)
 
+Si comprobamos las bases de datos disponibles podemos observar que se encuentra "Proxecto_Investigacion", la cuál estaba definida en el archivo **proxecto.sql**
+
 ![Imaxe 15](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/2_2.PNG)
 
 ![Imaxe 16](https://raw.githubusercontent.com/vendoleiras/ExerciciosMySQL/master/images/3_3.PNG)
